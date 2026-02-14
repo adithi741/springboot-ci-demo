@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping("/")
     public String home() {
-        return "Hello Adithi 🚀 Docker is working succesfully and CI/CD is working perfectly !!";
+        return "Hello Adithi 🚀 Docker is working succesfully and CI/CD is working perfectly.....now full CI/CD is LIVE !!";
     }
 }
 
